@@ -2,10 +2,11 @@ test
 
 edit
 
-
 feature 1.0.3
 
 feature 1.0.4
 
 feature 1.0.2
+
+feature 1.0.6
 
